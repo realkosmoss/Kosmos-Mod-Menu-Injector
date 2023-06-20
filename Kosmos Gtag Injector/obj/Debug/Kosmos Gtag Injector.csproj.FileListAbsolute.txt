@@ -1,0 +1,13 @@
+C:\Users\kosmos\source\repos\Kosmos Gtag Injector\Kosmos Gtag Injector\bin\Debug\Kosmos Gtag Injector.exe.config
+C:\Users\kosmos\source\repos\Kosmos Gtag Injector\Kosmos Gtag Injector\bin\Debug\Kosmos Gtag Injector.exe
+C:\Users\kosmos\source\repos\Kosmos Gtag Injector\Kosmos Gtag Injector\bin\Debug\Kosmos Gtag Injector.pdb
+C:\Users\kosmos\source\repos\Kosmos Gtag Injector\Kosmos Gtag Injector\obj\Debug\Kosmos Gtag Injector.csproj.AssemblyReference.cache
+C:\Users\kosmos\source\repos\Kosmos Gtag Injector\Kosmos Gtag Injector\obj\Debug\Kosmos Gtag Injector.csproj.SuggestedBindingRedirects.cache
+C:\Users\kosmos\source\repos\Kosmos Gtag Injector\Kosmos Gtag Injector\obj\Debug\Kosmos_Gtag_Injector.KosmosInjector.resources
+C:\Users\kosmos\source\repos\Kosmos Gtag Injector\Kosmos Gtag Injector\obj\Debug\Kosmos_Gtag_Injector.Properties.Resources.resources
+C:\Users\kosmos\source\repos\Kosmos Gtag Injector\Kosmos Gtag Injector\obj\Debug\Kosmos Gtag Injector.csproj.GenerateResource.cache
+C:\Users\kosmos\source\repos\Kosmos Gtag Injector\Kosmos Gtag Injector\obj\Debug\Kosmos Gtag Injector.csproj.CoreCompileInputs.cache
+C:\Users\kosmos\source\repos\Kosmos Gtag Injector\Kosmos Gtag Injector\obj\Debug\Kosmos Gtag Injector.exe
+C:\Users\kosmos\source\repos\Kosmos Gtag Injector\Kosmos Gtag Injector\obj\Debug\Kosmos Gtag Injector.pdb
+C:\Users\kosmos\source\repos\Kosmos Gtag Injector\Kosmos Gtag Injector\bin\Debug\SharpMonoInjector.dll
+C:\Users\kosmos\source\repos\Kosmos Gtag Injector\Kosmos Gtag Injector\obj\Debug\Kosmos Gtag Injector.csproj.CopyComplete
